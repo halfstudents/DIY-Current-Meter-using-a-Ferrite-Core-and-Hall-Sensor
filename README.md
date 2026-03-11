@@ -10,7 +10,7 @@ I built a DC ammeter using a toroidal ferrite core and a Hall Effect sensor (WSH
 
 ![Image](https://github.com/user-attachments/assets/6649c7b9-c5e2-4b1e-9363-2ba841a90ef8)
 
-By cutting a gap in the toroidal core and placing a Hall Effect sensor in that gap.  With this we can measure the magnetic flux density, which is directly proportional to the current flowing through the windings. I know this is the same thing which is used in clamp meters and that’s how the idea comes to my mind. Overall now with this approach we get an isolated, non-invasive current measurement. And by choosing the right number of windings, you can adjust the sensitivity and resolution of your ammeter to suit your needs. The same can be converted later with the help of a PCB provided by JLCPCB. As I got my MCU dev board fabricated from there in a $2 price.
+By cutting a gap in the toroidal core and placing a Hall Effect sensor in that gap.  With this we can measure the magnetic flux density, which is directly proportional to the current flowing through the windings. I know this is the same thing which is used in clamp meters and that’s how the idea comes to my mind. Overall now with this approach we get an isolated, non-invasive current measurement. And by choosing the right number of windings, you can adjust the sensitivity and resolution of your ammeter to suit your needs. The same can be converted later with the help of a PCB provided by [JLCPCB](https://jlcpcb.com/?from=audrey3). As I got my MCU dev board fabricated from there in a $2 price.
 
 **How Does It Work?**
 

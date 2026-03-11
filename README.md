@@ -1,6 +1,7 @@
 # DIY-Current-Meter-using-a-Ferrite-Core-and-Hall-Sensor
 A simple isolated current meter for measuring higher currents with good resolution based on hall effect sensor.
-Here is the full article live on hackster: https://www.hackster.io/sainisagar7294/diy-current-meter-using-a-ferrite-core-and-hall-sensor-4a91aa
+📖 Here is the full article on Hackster:  
+[DIY Current Meter Using a Ferrite Core and Hall Sensor](https://www.hackster.io/sainisagar7294/diy-current-meter-using-a-ferrite-core-and-hall-sensor-4a91aa)
 
 [Order PCBs from JLCPCB](https://jlcpcb.com/?from=audrey3)
 

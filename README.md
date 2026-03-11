@@ -2,7 +2,7 @@
 A simple isolated current meter for measuring higher currents with good resolution based on hall effect sensor.
 Here is the full article live on hackster: https://www.hackster.io/sainisagar7294/diy-current-meter-using-a-ferrite-core-and-hall-sensor-4a91aa
 
-JLCPCB: https://jlcpcb.com/?from=audrey3
+[Order PCBs from JLCPCB](https://jlcpcb.com/?from=audrey3)
 
 I have used too many current and power measurement meters in the past. And I always want to build a better version of the previous one. Most of my work kept revolving around making measuring and test equipment, in the hope of someday creating a revolution in the testing world.  The most common method is using a shunt resistor, but it introduces voltage drop and power loss in the circuit.
 I built a DC ammeter using a toroidal ferrite core and a Hall Effect sensor (WSH130NL). The idea is, when current flows through a wire wound around a toroidal core, it creates a magnetic field inside the core. For AC measurements we can just use a secondary winding and get a pretty good step down transformer producing an effective voltage which can be converted into current values. But with a DC steady signal we have to measure the magnetic flux in a different manner.
